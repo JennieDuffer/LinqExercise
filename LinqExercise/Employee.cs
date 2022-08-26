@@ -13,7 +13,7 @@ namespace LinqExercise
         {
             get
             {
-                return $"{FirstName} {LastName}";
+                return $"{FirstName}  {LastName}";
             }
         }
         public int YearsOfExperience { get; set; }
